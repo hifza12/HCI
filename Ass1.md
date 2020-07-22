@@ -18,11 +18,13 @@ We saw in class that the actual reason of using a device or interacting with an 
 1. locate beds
 2. symptoms checker
 3. find nearby hospitals
-4.Doctor available or not
-5.Kits available or not
-6.online payment
--medicine price comparsion
--Recive Plasma or donate plasma
+4. Doctor available or not
+5. Kits available or not
+6. online payment
+7. medicine price comparsion
+8. Recive Plasma or donate plasma
+9. online doctor support
+10. patient records
 
 ## Task.1:Symptoms checker ##
 
