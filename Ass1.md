@@ -100,6 +100,14 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 | **MOTIVATIONS** |	Make someone’s day a little brighter, save life, make the patient comfortable.|
 
 
+## - WORKERS ##
+| **PERSONALITY** | **BIO** |
+|------------------|---------|
+| **OTHER PEOPLE, LIKE WORKERS** |	Hassan is a delivery boy, his age is around 20. He love his family so he working for his family so that he will earn money to take care of his                                    family.|
+|**WORKING** |	He is doing very good and appreciated job to facilitate those people who is in isolation and provide medicine at home. He is very friendly to the user.|
+| **GOALS** |	Serve for his life for humanity. And help needy people. He is doing a good job.|
+
+
 
 
 
