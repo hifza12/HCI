@@ -23,14 +23,16 @@ We saw in class that the actual reason of using a device or interacting with an 
 -medicine price comparsion
 -Recive Plasma or donate plasma
 
-##Symptoms checker##
+## Symptoms checker##
+
 By the help of this feature people will be able to find if they have the symptoms of COVID-19 or not if they will be having those symptoms then nerby hospitals with avalaibale doctors will be located 
 
-##Medicine Price Comparsion##
+## Medicine Price Comparsion##
+
 As you know because of COVID-19 many of the people are getting jobless they have very few savings and due to high prices of medicine they are not able to purchase them with the help of this app 
 they will be able to compare medicines of two different comapnies and will be able to purhcase those medicines 
 
-##Prospect Technology Use ##
+## Prospect Technology Use ##
 The prospect of this tehcnology use is for digital use we will design this app for mobile devices so that everyone can carry our app in there pockets 
 
 ##References##
