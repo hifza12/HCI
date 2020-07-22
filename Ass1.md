@@ -57,7 +57,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 
 ## DESIGN ALTERNATIVES: ##
 ### PERSONAS: ### 
-#### 1. DOCTORS ####
+#### - DOCTORS ####
 ## 1. ##
 |     **PERSONALITY**       | **BIO** |
 |-----------------------|---------|
@@ -75,13 +75,21 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 | **EXPERIENCE**       |	Seven years’ experience.|
 
 
-## PATIENT ##
+## - PATIENT ##
 ## 1. ##
 | **PERSONALITY** | **BIO** |
 |------------------|---------|
 | **PATIENT** |	Ali is a student of class 12 standard of a high level college. He is a very hard working student. He is in Karachi but in this pandemic situation his covid test                is positive|   
 | **PATIENT AGE OR CONDITION** | Ali’s age is around 18 and his condition is in under control if he follow the doctor’s prescription and safety precaution.|
 | **PRESCRIPTION** | 15 days isolation and Wash hands often with soap and water for at least 20 seconds. Cover coughs and sneezes with tissues eating healthy food.|
+
+
+## 2. ##
+| **PERSONALITY** | **BIO** |
+|------------------|---------|
+| **PATIENT** 	| Amar is a banker and he is belong to middle class. He is in Islamabad but in this pandemic situation his covid test is positive.|   
+| **PATIENT AGE OR CONDITION** | Amar’s age is around 45 and his condition is too serious and he needs ventilation in this this condition patient death chance but the doctor                                      gives his best and  if the patient follow the doctor’s prescription and safety precaution he is safe condition.|
+| **PRESCRIPTION** |	15 days isolation and Wash hands often with soap and water for at least 20 seconds. Cover coughs and sneezes with tissues eating healthy food.|
 
 
 
