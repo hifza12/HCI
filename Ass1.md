@@ -13,6 +13,7 @@ they can find bed for their patients easily.If by making this app we can fight C
 
 ## Tasks Performed ##
 We saw in class that the actual reason of using a device or interacting with an interface is to accomplish a task. List around 10 tasks that you think users performs in your domain of choosing where good HCI can help people:
+
 1.locate beds
 2.symptoms checker
 3.find nearby hospitals
@@ -22,10 +23,10 @@ We saw in class that the actual reason of using a device or interacting with an 
 -medicine price comparsion
 -Recive Plasma or donate plasma
 
-###Task 1: Symptoms checker###
+##Symptoms checker##
 By the help of this feature people will be able to find if they have the symptoms of COVID-19 or not if they will be having those symptoms then nerby hospitals with avalaibale doctors will be located 
 
-###Task 2: Medicine Price Comparsion###
+##Medicine Price Comparsion##
 As you know because of COVID-19 many of the people are getting jobless they have very few savings and due to high prices of medicine they are not able to purchase them with the help of this app 
 they will be able to compare medicines of two different comapnies and will be able to purhcase those medicines 
 
