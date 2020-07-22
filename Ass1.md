@@ -1,7 +1,9 @@
-#HCI 104475: Hospital Management System#
+#HCI ID 104475#
+#Hospital Management System#
 ###PROJECT MEMBERS###
------------- | -------------
-**63110**    | **Hifza Anwar** 
+|------------ | -----------------|
+|**63110**    | **Hifza Anwar**  |
+|**63341**    | **Ghanwa Batool**|
  
 ## Domain Description ##
 The domain that we have decided to make a project on is regarding health the main reason why we are motivated to work on this project is becasue of the main issue of COVID-19 
