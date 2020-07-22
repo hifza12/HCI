@@ -13,12 +13,12 @@ they can find bed for their patients easily.If by making this app we can fight C
 
 ## Tasks Performed ##
 We saw in class that the actual reason of using a device or interacting with an interface is to accomplish a task. List around 10 tasks that you think users performs in your domain of choosing where good HCI can help people:
--locate beds
--symptoms checker
--find nearby hospitals
--Doctor available or not
--Kits available or not
--online payment
+1.locate beds
+2.symptoms checker
+3.find nearby hospitals
+4.Doctor available or not
+5.Kits available or not
+6.online payment
 -medicine price comparsion
 -Recive Plasma or donate plasma
 
