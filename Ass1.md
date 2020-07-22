@@ -46,7 +46,7 @@ The most common symptoms include flu-like symptoms such as fever, dry cough, and
 
 Nowadays, the major target is corona virus patient use this app and facilitate and our message for user is stay safe stay healthy.
 
-**This app is very useful for covid patient at this pandemic situation **
+**This app is very useful for covid patient at this pandemic situation**
 
 - The app should be user friendly and user/customer supported in this pandemic situation, so that the user/customer can avail full benefit of such application an safe at home from this virus.
 - This application provides an appropriate and attractive UI display to attract the customer and provide such facility for covid patient online test online doctor available 24hours for treatment and guide what to do next step.
