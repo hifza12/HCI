@@ -1,7 +1,7 @@
 #HCI 104475: Hospital Management System#
 ###PROJECT MEMBERS###
 ------------ | -------------
-**63110** | **Hifza Anwar** 
+**63110**    | **Hifza Anwar** 
  
 ## Domain Description ##
 The domain that we have decided to make a project on is regarding health the main reason why we are motivated to work on this project is becasue of the main issue of COVID-19 
@@ -10,7 +10,7 @@ COVID-19 . By the help of this app we will make it sure that every one will find
 they can find bed for their patients easily.If by making this app we can fight COVID-19 it is enough for us to get motivated and start working on this app !
 
 ## Tasks Performed ##
-We saw in class that the actual reason of using a device or interacting with an interface is to accomplish a task. List around 10 tasks that you think users performs in your domain of choosing where good HCI can help people.
+We saw in class that the actual reason of using a device or interacting with an interface is to accomplish a task. List around 10 tasks that you think users performs in your domain of choosing where good HCI can help people:
 -locate beds
 -symptoms checker
 -find nearby hospitals
@@ -20,10 +20,10 @@ We saw in class that the actual reason of using a device or interacting with an 
 -medicine price comparsion
 -Recive Plasma or donate plasma
 
-1. ###Task 1: Symptoms checker###
+###Task 1: Symptoms checker###
 By the help of this feature people will be able to find if they have the symptoms of COVID-19 or not if they will be having those symptoms then nerby hospitals with avalaibale doctors will be located 
 
-2. ###Task 2: Medicine Price Comparsion###
+###Task 2: Medicine Price Comparsion###
 As you know because of COVID-19 many of the people are getting jobless they have very few savings and due to high prices of medicine they are not able to purchase them with the help of this app 
 they will be able to compare medicines of two different comapnies and will be able to purhcase those medicines 
 
