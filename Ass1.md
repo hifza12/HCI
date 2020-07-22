@@ -80,9 +80,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 | **PERSONALITY** | **BIO** |
 |------------------|---------|
 | **PATIENT** |	Ali is a student of class 12 standard of a high level college. He is a very hard working student. He is in Karachi but in this pandemic situation his covid test                is positive|   
-
 | **PATIENT AGE OR CONDITION** | Ali’s age is around 18 and his condition is in under control if he follow the doctor’s prescription and safety precaution.|
-
 | **PRESCRIPTION** | 15 days isolation and Wash hands often with soap and water for at least 20 seconds. Cover coughs and sneezes with tissues eating healthy food.|
 
 
