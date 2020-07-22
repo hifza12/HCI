@@ -58,14 +58,14 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 ## DESIGN ALTERNATIVES: ##
 ### PERSONAS: ### 
 #### 1. DOCTORS ####
-| **PERSONALITY**       | **BIO** |
+|     **PERSONALITY**       | **BIO** |
 |-----------------------|---------|
-| **DOCTOR NAME**      	| Dr.Kashif, he was born on 11 September 1985 in Islamabad he is a Pakistani philanthropist, Doctor, Renal transplant surgeon.|
-| **QUALIFCATION**      | He graduated from Dow Medical College in Karachi, Pakistan in 1968. Then he went to UK to pursue higher studies.|
-| **WORKING**           |	Now he is appointed head of an isolation ward for the coronavirus patients. In this ward patient condition is too serious and in this pandemic                                    situation he serve his life for humanity.|
-| **EXPERINCE**	        | Ten years’ experience.|
+|     **DOCTOR NAME**      	| Dr.Kashif, he was born on 11 September 1985 in Islamabad he is a Pakistani philanthropist, Doctor, Renal transplant surgeon.|
+|     **QUALIFCATION**      | He graduated from Dow Medical College in Karachi, Pakistan in 1968. Then he went to UK to pursue higher studies.|
+|      **WORKING**           |	Now he is appointed head of an isolation ward for the coronavirus patients. In this ward patient condition is too serious and in this pandemic                                    situation he serve his life for humanity.|
+|     **EXPERINCE**	        | Ten years’ experience.|
 
-| **PERSONALITY**      | **BIO** |
+|    **PERSONALITY**      | **BIO** |
 |----------------------|---------|
 | **DOCTOR NAME**      |	Dr.Saira, she was born on 19 April 1990 in Karachi she is a Pakistani |
 | **QUALIFCATION**     | Dr.Saira from Indus Hospital credits her older sister for this career path as she had gotten into a medical school a few years ahead. She was inspired                            to follow the path paved by her sister, and for that reason, she managed to enroll in her dream college... |
