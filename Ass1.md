@@ -57,7 +57,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 
 ## DESIGN ALTERNATIVES: ##
 ### PERSONAS: ### 
-#### - DOCTORS ####
+## - DOCTORS ##
 ## 1. ##
 |     **PERSONALITY**       | **BIO** |
 |-----------------------|---------|
@@ -92,6 +92,12 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 | **PRESCRIPTION** |	15 days isolation and Wash hands often with soap and water for at least 20 seconds. Cover coughs and sneezes with tissues eating healthy food.|
 
 
+## - NURSE ##
+| **PERSONALITY** | **BIO** |
+|------------------|---------|
+| **NURSE** |	Saad is a nurse, qualification BS in Nursing, his age is 25 years. With five years of professional experiences she is extremely attentive to patient needs and                   always ready to help when asks.|
+| **GOALS** | His goal is to provide a best care of his patient, monitor the patient’s vitals from his station, keep actuate records.| 
+| **MOTIVATIONS** |	Make someone’s day a little brighter, save life, make the patient comfortable.|
 
 
 
