@@ -66,6 +66,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 | **EXPERINCE**	     | Ten years’ experience.|
 
 | **PERSONALITY**  | **BIO** |
+|------------------|---------|
 | **DOCTOR NAME**  |	Dr.Saira, she was born on 19 April 1990 in Karachi she is a Pakistani |
 | **QUALIFCATION** | Dr.Saira from Indus Hospital credits her older sister for this career path as she had gotten into a medical school a few years ahead. She was inspired to                          follow the path paved by her sister, and for that reason, she managed to enroll in her dream college... |
 
