@@ -43,14 +43,17 @@ People around the world are facing the worst situation due to the COVID-19, also
 
 ## SENERIO: ##
 The most common symptoms include flu-like symptoms such as fever, dry cough, and shortness of breath or difficulty breathing. Symptoms can also include chills and repeated shaking, muscle pain, headache, sore throat, and loss of sense of taste or smell. Symptoms typically appear within 2 days to 14 days after exposure. In this situation covid patient facilitate from this app user use this app and connect with doctors. Online doctor guide what to do and perception of medicine told the patient and told the precaution to safe this virus and other hand the patient in serious condition user reserve the bed and find near hospitals and delivery or oxygen box and other safety kid’s, rider drop these things at your home through this app.
+
 Nowadays, the major target is corona virus patient use this app and facilitate and our message for user is stay safe stay healthy.
+
 **This app is very useful for covid patient at this pandemic situation **
-The app should be user friendly and user/customer supported in this pandemic situation, so that the user/customer can avail full benefit of such application an safe at home from this virus.
-This application provides an appropriate and attractive UI display to attract the customer and provide such facility for covid patient online test online doctor available 24hours for treatment and guide what to do next step.
-It supports a selection of touch buttons to select to call doctor, medicine delivery at home, reserve bed, find nearest hospital and other facilities with an attractive well- designed app.
-The user also uses their bank card for payment.
-The user also donate the money for needy people.
-These applications need to be updated with the necessary rewards, discounts on medicine doctor’s fee and free treatment whenever required.
+
+- The app should be user friendly and user/customer supported in this pandemic situation, so that the user/customer can avail full benefit of such application an safe at home from this virus.
+- This application provides an appropriate and attractive UI display to attract the customer and provide such facility for covid patient online test online doctor available 24hours for treatment and guide what to do next step.
+- It supports a selection of touch buttons to select to call doctor, medicine delivery at home, reserve bed, find nearest hospital and other facilities with an attractive well- designed app.
+- The user also uses their bank card for payment.
+- The user also donate the money for needy people.
+- These applications need to be updated with the necessary rewards, discounts on medicine doctor’s fee and free treatment whenever required.
 
 
 ## References ##
