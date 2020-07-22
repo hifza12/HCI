@@ -41,7 +41,7 @@ The prospect of this tehcnology use is for digital use we will design this app f
 ## NEED FINDING: ##
 People around the world are facing the worst situation due to the COVID-19, also called the Coronavirus. The virus is a severe pandemic that has disrupted lives, collapsed economies, and destroyed businesses globally. As the disease spreads worldwide, hospitals are running out of quarantine space to isolate infected individuals. People who have slight symptoms quarantine themselves in their homes. So I decided to create app which help this app is to aid corona patients stuck at home. Create a delivery app through which patients living on their own can get medicines. This apps will teach simple meditation and mental relaxation techniques that people can practice themselves at home easily. 
 
-## SENERIO: ##
+## SCENARIO: ##
 The most common symptoms include flu-like symptoms such as fever, dry cough, and shortness of breath or difficulty breathing. Symptoms can also include chills and repeated shaking, muscle pain, headache, sore throat, and loss of sense of taste or smell. Symptoms typically appear within 2 days to 14 days after exposure. In this situation covid patient facilitate from this app user use this app and connect with doctors. Online doctor guide what to do and perception of medicine told the patient and told the precaution to safe this virus and other hand the patient in serious condition user reserve the bed and find near hospitals and delivery or oxygen box and other safety kid’s, rider drop these things at your home through this app.
 
 Nowadays, the major target is corona virus patient use this app and facilitate and our message for user is stay safe stay healthy.
