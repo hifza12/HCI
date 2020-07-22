@@ -58,6 +58,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 ## DESIGN ALTERNATIVES: ##
 ### PERSONAS: ### 
 #### 1. DOCTORS ####
+## 1. ##
 |     **PERSONALITY**       | **BIO** |
 |-----------------------|---------|
 |     **DOCTOR NAME**      	| Dr.Kashif, he was born on 11 September 1985 in Islamabad he is a Pakistani philanthropist, Doctor, Renal transplant surgeon.|
@@ -65,6 +66,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 |      **WORKING**           |	Now he is appointed head of an isolation ward for the coronavirus patients. In this ward patient condition is too serious and in this pandemic                                    situation he serve his life for humanity.|
 |     **EXPERINCE**	        | Ten years’ experience.|
 
+## 2. ##
 |    **PERSONALITY**      | **BIO** |
 |----------------------|---------|
 | **DOCTOR NAME**      |	Dr.Saira, she was born on 19 April 1990 in Karachi she is a Pakistani |
