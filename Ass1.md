@@ -69,7 +69,6 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 |------------------|---------|
 | **DOCTOR NAME**  |	Dr.Saira, she was born on 19 April 1990 in Karachi she is a Pakistani |
 | **QUALIFCATION** | Dr.Saira from Indus Hospital credits her older sister for this career path as she had gotten into a medical school a few years ahead. She was inspired to                          follow the path paved by her sister, and for that reason, she managed to enroll in her dream college... |
-
 | **WORKING** |	Now she is appointed head of an isolation ward for the coronavirus patients. In this ward patient condition is in doctor hands and easily control the condition                   of patient and in this pandemic situation she serve his life for humanity.|
 | **EXPERIENCE** |	Seven years’ experience.|
 
