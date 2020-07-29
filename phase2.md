@@ -135,6 +135,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 ![116100911_3130992100326014_8457811996807233162_n](https://user-images.githubusercontent.com/61615948/88834985-0be1f200-d1ee-11ea-8001-b1b03a9b9fe0.jpg)
 
 ## EVALUATION ##
+![feedback](https://user-images.githubusercontent.com/61615948/88850949-7fdbc480-d205-11ea-9e98-886d3ea6ed7a.PNG)
 
 ## References ##
 Github link
