@@ -55,6 +55,10 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 - The user also donate the money for needy people.
 - These applications need to be updated with the necessary rewards, discounts on medicine doctor’s fee and free treatment whenever required.
 
+
+Nurse Scenario##
+Alina is a nurse she is 24 years old she works in a hospital which is under pandemic emergency and she is using this app to help patients to compare medicines for there patients and guiding them which medicine to use
+
 ## DESIGN ALTERNATIVES: ##
 ## - 1. ##
 ![116233523_214165339929536_1986031754670154839_n](https://user-images.githubusercontent.com/61615948/88828042-1ac3a700-d1e4-11ea-8207-d428b81be9be.jpg)
