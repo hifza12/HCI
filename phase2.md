@@ -129,9 +129,9 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 | **GOALS** |	Serve for his life for humanity. And help needy people. He is doing a good job.|
 
 ## PROTOTYPE ##
-### DESIGN 1 ###
+## DESIGN 1 ##
 ![116054038_1372851452914662_3712218517126181109_n](https://user-images.githubusercontent.com/61615948/88834906-efde5080-d1ed-11ea-8aff-82923f421540.jpg)
-### DESIGN 2 ###
+## DESIGN 2 ##
 ![116100911_3130992100326014_8457811996807233162_n](https://user-images.githubusercontent.com/61615948/88834985-0be1f200-d1ee-11ea-8001-b1b03a9b9fe0.jpg)
 
 ## EVALUATION ##
