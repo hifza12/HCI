@@ -112,7 +112,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 | **GOALS** | His goal is to provide a best care of his patient, monitor the patient’s vitals from his station, keep actuate records.| 
 | **MOTIVATIONS** |	Make someone’s day a little brighter, save life, make the patient comfortable.|
 
-
+ 
 ## - WORKERS ##
 | **PERSONALITY** | **BIO** |
 |------------------|---------|
