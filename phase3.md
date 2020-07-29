@@ -72,6 +72,19 @@
 |**WORKING** |	He is doing very good and appreciated job to facilitate those people who is in isolation and provide medicine at home. He is very friendly to the user.|
 | **GOALS** |	Serve for his life for humanity. And help needy people. He is doing a good job.|
 
+## Nurse Scenario: ##
+Ayesha is a nurse she is 25 years old she works in a hospital which is under pandemic emergency and she is using this app to help patients to compare medicines for thit patients and guiding them which medicine to use she always try to be a part of someone's life by doing any act of kindness. 
+
+## BRAINSTROMING QUESTION / ANSWERS: ##
+## -1 ##
+- What is your educational background?
+ Ayesha is a nurse she is 25 years old lady she had completed her deploma course and now she is serving in the hospital
+## -2 ##
+- Any experience of using smartphones? (mobile application)
+Yes, she has experience in using this mobile phone as she always  searches for suitable treatments  for her patients and find new ways to keep happy her patients
+## -3 ##
+- How this App will help her?
+This app will her in a way that she can compare different types of medicines and advice her patients which one to choose.
 ## PROTOTYPE ##
 ## - WIREFRAME ##
 ![F](https://user-images.githubusercontent.com/61615948/88858588-a43d9e00-d211-11ea-95fc-80122f326e4a.PNG)
