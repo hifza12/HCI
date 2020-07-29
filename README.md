@@ -1,2 +1,0 @@
-# HCI
-All HCI work.
