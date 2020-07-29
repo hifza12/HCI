@@ -72,6 +72,17 @@
 |**WORKING** |	He is doing very good and appreciated job to facilitate those people who is in isolation and provide medicine at home. He is very friendly to the user.|
 | **GOALS** |	Serve for his life for humanity. And help needy people. He is doing a good job.|
 
+## SCENARIO: ##
+As we all know the most common symptoms include flu-like symptoms such as fever, dry cough, back pain and  shortness of breath or difficulty breathing. Symptoms can also include chills and repeated shaking, muscle pain, headache, sore throat, and loss of sense of taste or smell. Symptoms typically appear within 2 days to 14 days after exposure. In this situation covid patient facilitate from this app user use this app and connect with doctors. Online doctor guide what to do and perception of medicine told the patient and told the precaution to safe this virus and other hand the patient in serious condition user reserve the bed and find near hospitals and delivery or oxygen box and other safety kid’s, rider drop these things at your home through this app.
+Nowadays, the major target is corona virus patient use this app and facilitate and our message for user is stay safe stay healthy.
+
+**This app is very useful for covid patient at this pandemic situation**
+
+- The app should be user friendly and user/customer supported in this pandemic situation, so that the user/customer can avail full benefit of such application an safe at home from this virus.
+- This application provides an appropriate and attractive UI display to attract the customer and provide such facility for covid patient online test online doctor available 24hours for treatment and guide what to do next step ,in this way a person can be safe his life while staying in their homes.
+- It has  selection of touch buttons to select to call doctor for that first a patient get register his or her self ,after that can see whose doctor is available, medicine delivery at home, reserve bed, find nearest hospital and other facilities with an attractive well- designed app.
+- The user can pay their bills online by  their bank card.
+- The user also donate the money for needy people.
 ## Nurse Scenario: ##
 Ayesha is a nurse she is 25 years old she works in a hospital which is under pandemic emergency and she is using this app to help patients to compare medicines for thit patients and guiding them which medicine to use she always try to be a part of someone's life by doing any act of kindness. 
 
