@@ -56,7 +56,7 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 - These applications need to be updated with the necessary rewards, discounts on medicine doctor’s fee and free treatment whenever required.
 
 ## DESIGN ALTERNATIVES: ##
-![116233523_214165339929536_1986031754670154839_n](https://user-images.githubusercontent.com/61615948/88828042-1ac3a700-d1e4-11ea-8207-d428b81be9be.jpg)
+![116233523_214165339929536_1986031754670154839_n](https://user-images.githubusercontent.com/61615948/88828042-1ac3a700-d1e4-11ea-8207-d428b81be9be.jpg 50*10)
 ![116588267_326263355446048_7523370213889727381_n](https://user-images.githubusercontent.com/61615948/88828078-23b47880-d1e4-11ea-9a0b-27d2cbe19dce.jpg)
 ![115933082_320572722469651_5506942479280752393_n](https://user-images.githubusercontent.com/61615948/88828120-32029480-d1e4-11ea-8c5c-b28ce2967253.jpg)
 ![116003152_305381327327354_4591918430590587017_n](https://user-images.githubusercontent.com/61615948/88828131-35961b80-d1e4-11ea-9f64-563700bec8de.jpg)
