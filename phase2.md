@@ -30,7 +30,7 @@ We saw in class that the actual reason of using a device or interacting with an 
 
 By the help of this feature people will be able to find if they have the symptoms of COVID-19 or not if they will be having those symptoms then nerby hospitals with avalaibale doctors will be located 
 
-<img scr="C:/Users/ONE10.COMPUTER/Desktop/8.jpg" width="100" height="20">
+<img scr="Desktop/8.jpg" width="100" height="20">
 
 ## Task.2: Medicine Price Comparsion: ##
 
