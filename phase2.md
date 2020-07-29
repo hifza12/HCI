@@ -56,6 +56,17 @@ Nowadays, the major target is corona virus patient use this app and facilitate a
 - These applications need to be updated with the necessary rewards, discounts on medicine doctor’s fee and free treatment whenever required.
 
 ## DESIGN ALTERNATIVES: ##
+![116233523_214165339929536_1986031754670154839_n](https://user-images.githubusercontent.com/61615948/88828042-1ac3a700-d1e4-11ea-8207-d428b81be9be.jpg)
+![116588267_326263355446048_7523370213889727381_n](https://user-images.githubusercontent.com/61615948/88828078-23b47880-d1e4-11ea-9a0b-27d2cbe19dce.jpg)
+![115933082_320572722469651_5506942479280752393_n](https://user-images.githubusercontent.com/61615948/88828120-32029480-d1e4-11ea-8c5c-b28ce2967253.jpg)
+![116003152_305381327327354_4591918430590587017_n](https://user-images.githubusercontent.com/61615948/88828131-35961b80-d1e4-11ea-9f64-563700bec8de.jpg)
+![115948168_729376321197309_2933636768800420477_n](https://user-images.githubusercontent.com/61615948/88828150-3929a280-d1e4-11ea-9200-e82f86079c57.jpg)
+![116100911_3130992100326014_8457811996807233162_n](https://user-images.githubusercontent.com/61615948/88828157-3cbd2980-d1e4-11ea-90f3-f8d1fcc2b5a8.jpg)
+![116434917_919365531906161_1860096021569722909_n](https://user-images.githubusercontent.com/61615948/88828171-4050b080-d1e4-11ea-99a9-702d6a1b153b.jpg)
+![116017760_916512712165831_7003617539918670524_n](https://user-images.githubusercontent.com/61615948/88828175-43e43780-d1e4-11ea-81ca-1d02bc180d3b.jpg)
+![116054038_1372851452914662_3712218517126181109_n](https://user-images.githubusercontent.com/61615948/88828184-48a8eb80-d1e4-11ea-89d5-ec9fdc3f0473.jpg)
+![116443761_636421993644346_7838079510204115219_n](https://user-images.githubusercontent.com/61615948/88828194-4d6d9f80-d1e4-11ea-9853-5425f73561ba.jpg)
+![109120822_1565268753651638_4162422286298404890_n](https://user-images.githubusercontent.com/61615948/88828203-52325380-d1e4-11ea-88da-974e7af749b3.jpg)
 ### PERSONAS: ### 
 ## - DOCTORS ##
 ## 1. ##
