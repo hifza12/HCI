@@ -61,25 +61,25 @@ Alina is a nurse she is 24 years old she works in a hospital which is under pand
 
 ## BRAINSTROMING QUESTION / ANSWERS: ##
 ## -1 ##
-- What is your educational background?
+- What is your educational background?<br/>
  Alina is a nurse she is 24 she had completed her nursing course and now serving in the hospital
 ## -2 ##
-- Any experience of using smartphones? (mobile application)
+- Any experience of using smartphones? (mobile application)<br/>
 Yes, she have experience in using this mobile phone as she searches for suitable medicines for her patients
 ## -3 ##
-- How this App will help her?
+- How this App will help her?<br/>
 This app will her in a way that she can compare different types of medicines and advice her patients which one to choose.
 ## Patients Scenario: ##
 Amar was a banker and he had to meet with lots ofpeople as he was in his late 40's he was in more danger of getting exposed to coronavirus and unfortunately, he got sick spent some days inhome isolation but his condition was not getting any better he was in need of a ventilator but could not found bed or didn't even know what todo next then he wen on play store and downloaded our app called COVID 19 safe app which first guided him how to keep himself safe and then he moved to next features like finding the nearest the hospital most importantly with available beds it even helps him in finding the medicine which costs less compared to others
 ## BRAINSTROMING QUESTION / ANSWERS: ##
 ## -1 ##
-- What is your educational background?
+- What is your educational background?<br/>
  Amar is a banker he is 30 years old man, he had completed his degree from Kasbit university
 ## -2 ##
-- Any experience of using smartphones? (mobile application)
+- Any experience of using smartphones? (mobile application)<br/>
 Yes, he has experience of using the mobile phone as he  searches new jobs availability, new methods of treading ,new ways to get experience to his job 
 ## -3 ##
-- How this App will help him?
+- How this App will help him?<br/>
 This app will him in a way that he can find whose doctor is available,either beds are available or not , testing are available or not etc
 
 ## STORY BOARDING: ##
