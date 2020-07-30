@@ -122,17 +122,24 @@ This app will him in a way that he can find whose doctor is available,either bed
 
 ## PROTOTYPE ##
 ## - WIREFRAME ##
-
-
-![115779459_3802240499803202_3026017588763128668_n](https://user-images.githubusercontent.com/57997537/88850099-4e162e00-d204-11ea-83be-c3a3ebb9b2b8.png)
-![116441841_399502984360054_6518240191767538853_n](https://user-images.githubusercontent.com/57997537/88850371-b6fda600-d204-11ea-932c-f180cf30c7a0.png)
-![116153850_689031165157302_5355906565284727699_n](https://user-images.githubusercontent.com/57997537/88850803-4d31cc00-d205-11ea-9b3d-58321bcedf87.png)
-![116235192_514329796015419_2681434481899911383_n](https://user-images.githubusercontent.com/57997537/88850810-4dca6280-d205-11ea-9d83-de96b199c061.png)
-![116274605_672502246683075_871261752053070364_n](https://user-images.githubusercontent.com/57997537/88850811-4e62f900-d205-11ea-8294-ee7e82c1cfcb.png)
-![F](https://user-images.githubusercontent.com/61615948/88858588-a43d9e00-d211-11ea-95fc-80122f326e4a.PNG)
-![G](https://user-images.githubusercontent.com/61615948/88858603-aa337f00-d211-11ea-9d06-af10bb6eef81.PNG)
-![H](https://user-images.githubusercontent.com/61615948/88858615-aef83300-d211-11ea-8618-f7773db7b128.PNG)
-![I](https://user-images.githubusercontent.com/61615948/88858625-b3245080-d211-11ea-982e-57cc49548fc4.PNG)
+![1](https://user-images.githubusercontent.com/61615948/88884636-79266f00-d250-11ea-9c29-1e9af58cfadd.PNG)
+![2](https://user-images.githubusercontent.com/61615948/88884644-7cb9f600-d250-11ea-9df3-6addea6613f9.PNG)
+![3](https://user-images.githubusercontent.com/61615948/88884665-84799a80-d250-11ea-9718-8fc616425f5d.PNG)
+![4](https://user-images.githubusercontent.com/61615948/88884667-84799a80-d250-11ea-91b7-4678d1451edd.PNG)
+![5](https://user-images.githubusercontent.com/61615948/88884669-85123100-d250-11ea-9481-818dd6b38e62.PNG)
+![6](https://user-images.githubusercontent.com/61615948/88884661-83486d80-d250-11ea-9642-8026b83511ce.PNG)
+![7](https://user-images.githubusercontent.com/61615948/88884662-83e10400-d250-11ea-885e-da0a39aba44b.PNG)
+![8](https://user-images.githubusercontent.com/61615948/88884664-83e10400-d250-11ea-802b-270fe2a17797.PNG)
+![9](https://user-images.githubusercontent.com/61615948/88884704-9a875b00-d250-11ea-86bb-a8e6c361e9fc.PNG)
+![10](https://user-images.githubusercontent.com/61615948/88884733-aa06a400-d250-11ea-96ce-21c9d1f06ebb.PNG)
+![11](https://user-images.githubusercontent.com/61615948/88884744-ad9a2b00-d250-11ea-9283-d5457d499f29.PNG)
+![12](https://user-images.githubusercontent.com/61615948/88884758-b25edf00-d250-11ea-904b-4f213dc34cc1.PNG)
+![13](https://user-images.githubusercontent.com/61615948/88884763-b68afc80-d250-11ea-878a-c12ab1075659.PNG)
+![14](https://user-images.githubusercontent.com/61615948/88884769-ba1e8380-d250-11ea-916c-5357f0dd318a.PNG)
+![15](https://user-images.githubusercontent.com/61615948/88884781-be4aa100-d250-11ea-8e85-db855699e230.PNG)
+![16](https://user-images.githubusercontent.com/61615948/88884788-c30f5500-d250-11ea-9242-862940274327.PNG)
+![17](https://user-images.githubusercontent.com/61615948/88884799-c73b7280-d250-11ea-9ed2-9c16761af57d.PNG)
+![18](https://user-images.githubusercontent.com/61615948/88884807-cb679000-d250-11ea-819f-6efae0cd0b73.PNG)
 
 ## - PHYSICAL PROTOTYPE ##
 
