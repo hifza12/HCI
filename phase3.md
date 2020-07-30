@@ -109,6 +109,17 @@ Yes, he has experience of using the mobile phone as he  searches lectures ,new b
 ## -3 ##
 - How this App will help him?
 This app will him in a way that he can find whose doctor is available,either beds are available or not , testing are available or not ,ventilater availability etc
+## STORY BOARDING: ##
+![WhatsApp Image 2020-07-30 at 12 40 15 AM (1)](https://user-images.githubusercontent.com/57997537/88851799-c2ea6780-d206-11ea-822c-59d754548886.jpeg)
+![WhatsApp Image 2020-07-30 at 12 40 12 AM (1)](https://user-images.githubusercontent.com/57997537/88853040-8d467e00-d208-11ea-9ee3-f412e8f3dd7a.jpeg)
+![WhatsApp Image 2020-07-30 at 12 40 06 AM](https://user-images.githubusercontent.com/57997537/88853126-b535e180-d208-11ea-8653-5e87c75ed049.jpeg)
+![WhatsApp Image 2020-07-30 at 12 40 11 AM (1)](https://user-images.githubusercontent.com/57997537/88853231-d8609100-d208-11ea-9d1e-c957acda0117.jpeg)
+![WhatsApp Image 2020-07-30 at 12 40 08 AM](https://user-images.githubusercontent.com/57997537/88853295-f0d0ab80-d208-11ea-8066-c12bf495c78e.jpeg)
+![WhatsApp Image 2020-07-30 at 12 40 11 AM](https://user-images.githubusercontent.com/57997537/88853348-034ae500-d209-11ea-82d0-c6f7160568d3.jpeg)
+![WhatsApp Image 2020-07-30 at 12 40 14 AM (1)](https://user-images.githubusercontent.com/57997537/88853393-18c00f00-d209-11ea-9ca5-91e53cb1ad0b.jpeg)
+![WhatsApp Image 2020-07-30 at 12 40 07 AM (1)](https://user-images.githubusercontent.com/57997537/88853444-2bd2df00-d209-11ea-889e-1c5765acf078.jpeg)
+![WhatsApp Image 2020-07-30 at 12 40 14 AM](https://user-images.githubusercontent.com/57997537/88853598-66d51280-d209-11ea-98d3-0e93e43ecb56.jpeg)
+
 
 ## PROTOTYPE ##
 ## - WIREFRAME ##
