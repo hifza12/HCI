@@ -96,6 +96,20 @@ Yes, she has experience in using this mobile phone as she always  searches for s
 ## -3 ##
 - How this App will help her?
 This app will her in a way that she can compare different types of medicines and advice her patients which one to choose.
+## Patients Scenario: ##
+Ahmed was a school principal so  he had to meet with lots ofpeople as he was in his late 40's he was in more danger of getting exposed to coronavirus and unfortunately, he got sick spent some days inhome isolation but his condition was not getting any better he was in need of a ventilator but could not found bed or didn't even know what todo next then he wen on play store and downloaded our app called COVID 19 safe app which first guided him how to keep himself safe and then he moved to next features like finding the nearest the hospital most importantly with available beds it even helps him in finding the medicine which costs less compared to others
+
+## BRAINSTROMING QUESTION / ANSWERS: ##
+## -1 ##
+- What is your educational background?
+ Ahmed is a school principal he is 40 years old man, hee had completed his master's from Karachi university
+## -2 ##
+- Any experience of using smartphones? (mobile application)
+Yes, he has experience of using the mobile phone as he  searches lectures ,new books and for watching news to let know about the situation of the city every day in his mobile 
+## -3 ##
+- How this App will help him?
+This app will him in a way that he can find whose doctor is available,either beds are available or not , testing are available or not ,ventilater availability etc
+
 ## PROTOTYPE ##
 ## - WIREFRAME ##
 ![F](https://user-images.githubusercontent.com/61615948/88858588-a43d9e00-d211-11ea-95fc-80122f326e4a.PNG)
