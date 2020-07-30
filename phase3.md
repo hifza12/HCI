@@ -6,7 +6,6 @@
 |**63110**    | **Hifza Anwar**  |
 |**63341**    | **Ghanwa Batool**|
 
-## NEED FINDING: ##
 ## DESIGN ALTERNATIVE ##
 ### PERSONAS: ### 
 ## - DOCTORS ##
