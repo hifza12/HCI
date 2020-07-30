@@ -112,6 +112,13 @@ This app will him in a way that he can find whose doctor is available,either bed
 
 ## PROTOTYPE ##
 ## - WIREFRAME ##
+
+
+![115779459_3802240499803202_3026017588763128668_n](https://user-images.githubusercontent.com/57997537/88850099-4e162e00-d204-11ea-83be-c3a3ebb9b2b8.png)
+![116441841_399502984360054_6518240191767538853_n](https://user-images.githubusercontent.com/57997537/88850371-b6fda600-d204-11ea-932c-f180cf30c7a0.png)
+![116153850_689031165157302_5355906565284727699_n](https://user-images.githubusercontent.com/57997537/88850803-4d31cc00-d205-11ea-9b3d-58321bcedf87.png)
+![116235192_514329796015419_2681434481899911383_n](https://user-images.githubusercontent.com/57997537/88850810-4dca6280-d205-11ea-9d83-de96b199c061.png)
+![116274605_672502246683075_871261752053070364_n](https://user-images.githubusercontent.com/57997537/88850811-4e62f900-d205-11ea-8294-ee7e82c1cfcb.png)
 ![F](https://user-images.githubusercontent.com/61615948/88858588-a43d9e00-d211-11ea-95fc-80122f326e4a.PNG)
 ![G](https://user-images.githubusercontent.com/61615948/88858603-aa337f00-d211-11ea-9d06-af10bb6eef81.PNG)
 ![H](https://user-images.githubusercontent.com/61615948/88858615-aef83300-d211-11ea-8618-f7773db7b128.PNG)
